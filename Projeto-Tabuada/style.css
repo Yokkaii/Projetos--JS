@@ -1,0 +1,32 @@
+@meta-charset ('UTF-8');
+
+body{
+    background: cornflowerblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+h1{
+    font-weight: bold;
+    text-align: center;
+    color: antiquewhite;
+}
+
+main{
+    background-color: aliceblue;
+    height: 130px;
+    width: 400px;
+    padding: 5px 30px 64px 10px;
+    margin: auto;
+    border-radius: 10px 10px;
+}
+
+section p{
+    font-weight: bold;
+}
+
+footer{
+    text-align: center;
+    color: antiquewhite;
+    font-style: italic;
+}
